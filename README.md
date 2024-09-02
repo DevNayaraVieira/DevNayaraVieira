@@ -1,5 +1,3 @@
-## Olá, eu sou a Nayara! 👋
-
 <div>
   <img align="center" alt="Pixel-Art" width="1000px" src="github-header-image.png"/>
 </div>
